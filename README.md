@@ -4,6 +4,8 @@
 
 Born in Taiwan, Lee Chia-Lin is currently a PhD student of Fine Arts at Taipei National University of the Arts. She graduated form the Department of Foreign Languages and Literatures, National Taiwan University,  and then visited Hangzhou for her further study of contemporary arts and curating at China Academy of Art (CAA). After that, she came back to Taiwan and started her career as an independent curator/editor. Lee publishes extensively on *Voices of Photography*, *CLABO*, *Art Accrediting* and other media platforms. In 2022, she founded [ZIMU CULTURE](https://zimu-culture.com/), an exhibition/book-making company based in Taipei.
 
+---
+
 ### Curatorial Practices
 #### 2022 [＊BONK＊](https://dac.taipei/project/bonk/)，台北數位藝術中心，台灣台北，策展人
 ![](https://dac.taipei/wp-content/uploads/2022/05/%E5%AE%98%E7%B6%B2%E7%B6%B2%E7%AB%99%E7%89%88-1920x1080-1-1920x1080.jpg)
@@ -12,19 +14,15 @@ Born in Taiwan, Lee Chia-Lin is currently a PhD student of Fine Arts at Taipei N
 
 
 #### 2020 [海的寓言——許進源個展](https://hsuchingyuan.art/allegories-of-ocean)，負債空間，台灣高雄，策展人
-<img src="(https://pro2-bar-s3-cdn-cf6.myportfolio.com/254accee-9ec3-446e-8e10-607481f5b948/a6aa4143-5a2f-40b5-8ab4-8ae32e16e7de_rw_1920.jpg?h=c33a1eed4aa1fbd686133d5bbd7a7c5c" width=50% height=50%>
-
 ![](https://pro2-bar-s3-cdn-cf6.myportfolio.com/254accee-9ec3-446e-8e10-607481f5b948/a6aa4143-5a2f-40b5-8ab4-8ae32e16e7de_rw_1920.jpg?h=c33a1eed4aa1fbd686133d5bbd7a7c5c)
 
 #### 2019 聚.變——中國美院跨媒體藝術學院研究生畢業展，象山藝術公社，中國杭州，策展團隊成員
-
 ![](https://i.imgur.com/oSoyFiw.jpg)
 
-
 #### 2018[From/To: 中國藝術教育的核心現場](https://www.e-flux.com/announcements/226938/from-to-the-frontier-of-chinese-art-education/)，舊金山藝術學院，美國舊金山，策展團隊成員
-
 ![](https://i.imgur.com/8VU1Gcy.jpg)
 
+---
 
 ### Selected Articles
 #### 2022
@@ -32,46 +30,12 @@ Born in Taiwan, Lee Chia-Lin is currently a PhD student of Fine Arts at Taipei N
 * [Proof of What？三檔區塊鏈主題展覽在歐](https://mag.clab.org.tw/clabo-article/proof-of-what-three-exhibitions-about-blockchain/)，CLABO
 * [想像分岔：吳其育的影像論文](https://vopmagazine.com/wcy/)，攝影之聲
 * 鄭先喻專訪，[攝影之聲 Issue 31：技術邏輯](https://vopmagazine.com/vop031/)
-
 #### 2021
 * [不斷逃逸：吳家昀的影像與裝置](https://vopmagazine.com/wyu/)，攝影之聲
 * [接近，但無法觸及：蔡宗勳的第二個地方](https://vopmagazine.com/tth/)，攝影之聲
 * [誰是越境者──李奎壁對話 Dolma Tsering](https://www.kmfa.gov.tw/ArtAccrediting/ArtArticleDetail.aspx?Cond=4bb35a2e-e0fa-4c73-91f2-1ac62473b6c7)，藝術認證，高雄市立美術館
 * [別無拷貝：黃邦銓的反轉片創作](https://vopmagazine.com/hpc/)，攝影之聲
 * [繞過機器製造影像：謝佑承的藍屏與幻象](https://vopmagazine.com/yc/)，攝影之聲
-
 #### 2020
 * [循靈夜行：訪梁廷毓](https://vopmagazine.com/lty/)，攝影之聲
 * 〈關於加州意識形態〉，收錄於《From/To——中國藝術教育的核心現場》，頁61-65，中國美術學院出版
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cchia0/cchia0.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
