@@ -9,18 +9,26 @@ Born in Taiwan, Lee Chia-Lin is currently a PhD student of Fine Arts at Taipei N
 
 ### Curatorial Practices
 #### 2022 [＊BONK＊](https://dac.taipei/project/bonk/)，台北數位藝術中心，台灣台北，策展人
+##### ＊BONK＊, Digital Art Center Taipei, Taipei, Curator
+
 ![](https://i.imgur.com/emt8iis.jpg)
 
 #### 2021 [許進源實品屋計畫](https://hsuchingyuan.art/show-house-project)，有章藝術博物館-大台北雙年展系列，台灣台北，計畫統籌
+#### Hsu Ching Yuan Model House Project, NTUA OUR MUSEUM - Greater Taipei Biennial of Contemporary Arts, Taipei, Project Manager
 ![](https://i.imgur.com/g0vOPkP.jpg)
 
 #### 2020 [海的寓言——許進源個展](https://hsuchingyuan.art/allegories-of-ocean)，負債空間，台灣高雄，策展人
+##### Allegories of Ocean——Hsu Ching Yuan Solo Exhibition, Debt Space, Kaohsiung, Curator
 ![](https://pro2-bar-s3-cdn-cf6.myportfolio.com/254accee-9ec3-446e-8e10-607481f5b948/a6aa4143-5a2f-40b5-8ab4-8ae32e16e7de_rw_1920.jpg?h=c33a1eed4aa1fbd686133d5bbd7a7c5c)
 
-#### 2019 聚.變——中國美院跨媒體藝術學院研究生畢業展，象山藝術公社，中國杭州，策展團隊成員
+#### 2019 聚.變：中國美院跨媒體藝術學院研究生畢業展，象山藝術公社，中國杭州，策展團隊成員
+##### COMMON FUSION: MFA Graduation Exhibition of SIMA, XianShan Art Commune, Curatorial Team
+
 ![](https://i.imgur.com/oSoyFiw.jpg)
 
-#### 2018[From/To: 中國藝術教育的核心現場](https://www.e-flux.com/announcements/226938/from-to-the-frontier-of-chinese-art-education/)，舊金山藝術學院，美國舊金山，策展團隊成員
+#### 2018 [From/To 哲匠之道: 中國美術學院舊金山特展](https://www.e-flux.com/announcements/226938/from-to-the-frontier-of-chinese-art-education/)，舊金山藝術學院，美國舊金山，策展團隊成員
+##### From/To: The Frontier of Chinese Art Education, San Francisco Art Institute, San Francisco, Curatorial Team
+
 ![](https://i.imgur.com/8VU1Gcy.jpg)
 
 ---
