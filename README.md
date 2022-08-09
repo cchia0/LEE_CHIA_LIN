@@ -8,10 +8,10 @@ Born in Taiwan, Lee Chia-Lin is currently a PhD student of Fine Arts at Taipei N
 
 ### Curatorial Practices
 #### 2022 [＊BONK＊](https://dac.taipei/project/bonk/)，台北數位藝術中心，台灣台北，策展人
-![](https://dac.taipei/wp-content/uploads/2022/05/%E5%AE%98%E7%B6%B2%E7%B6%B2%E7%AB%99%E7%89%88-1920x1080-1-1920x1080.jpg)
+![](https://i.imgur.com/emt8iis.jpg)
+
 #### 2021 [許進源實品屋計畫](https://hsuchingyuan.art/show-house-project)，有章藝術博物館-大台北雙年展系列，台灣台北，計畫統籌
 ![](https://i.imgur.com/g0vOPkP.jpg)
-
 
 #### 2020 [海的寓言——許進源個展](https://hsuchingyuan.art/allegories-of-ocean)，負債空間，台灣高雄，策展人
 ![](https://pro2-bar-s3-cdn-cf6.myportfolio.com/254accee-9ec3-446e-8e10-607481f5b948/a6aa4143-5a2f-40b5-8ab4-8ae32e16e7de_rw_1920.jpg?h=c33a1eed4aa1fbd686133d5bbd7a7c5c)
