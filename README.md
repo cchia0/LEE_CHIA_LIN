@@ -31,12 +31,14 @@ Born in Taiwan, Lee Chia-Lin is currently a PhD student of Fine Arts at Taipei N
 * [Proof of What？三檔區塊鏈主題展覽在歐](https://mag.clab.org.tw/clabo-article/proof-of-what-three-exhibitions-about-blockchain/)，CLABO
 * [想像分岔：吳其育的影像論文](https://vopmagazine.com/wcy/)，攝影之聲
 * 鄭先喻專訪，[攝影之聲 Issue 31：技術邏輯](https://vopmagazine.com/vop031/)
+
 #### 2021
 * [不斷逃逸：吳家昀的影像與裝置](https://vopmagazine.com/wyu/)，攝影之聲
 * [接近，但無法觸及：蔡宗勳的第二個地方](https://vopmagazine.com/tth/)，攝影之聲
 * [誰是越境者──李奎壁對話 Dolma Tsering](https://www.kmfa.gov.tw/ArtAccrediting/ArtArticleDetail.aspx?Cond=4bb35a2e-e0fa-4c73-91f2-1ac62473b6c7)，藝術認證，高雄市立美術館
 * [別無拷貝：黃邦銓的反轉片創作](https://vopmagazine.com/hpc/)，攝影之聲
 * [繞過機器製造影像：謝佑承的藍屏與幻象](https://vopmagazine.com/yc/)，攝影之聲
+
 #### 2020
 * [循靈夜行：訪梁廷毓](https://vopmagazine.com/lty/)，攝影之聲
 * 〈關於加州意識形態〉，收錄於《From/To——中國藝術教育的核心現場》，頁61-65，中國美術學院出版
