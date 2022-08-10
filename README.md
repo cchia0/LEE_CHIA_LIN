@@ -1,7 +1,7 @@
 # 李佳霖
 ### Bio
 
-畢業於台大外文系、中國美術學院就讀策展研究所，研究與實踐關注方向為數位時代的文化研究、媒體理論與藝術創作。目前就讀台北藝術大學美術系博士班，同時擔任[自牧文化](https://zimu-culture.com/)負責人，製作展覽與出版圖書。
+畢業於台大外文系、中國美術學院策展研究所，研究與實踐關注方向為數位時代的文化研究、媒體理論與藝術創作。目前就讀台北藝術大學美術系博士班，同時擔任[自牧文化](https://zimu-culture.com/)負責人，製作展覽與出版圖書。
 
 Born in Taiwan, Lee Chia-Lin is currently a PhD student of Fine Arts at Taipei National University of the Arts. She graduated form the Department of Foreign Languages and Literatures, National Taiwan University,  and then visited Hangzhou for her further study of contemporary arts and curating at China Academy of Art (CAA). After that, she came back to Taiwan and started her career as an independent curator/editor. Lee publishes extensively on *Voices of Photography*, *CLABO*, *Art Accrediting* and other media platforms. In 2022, she founded [ZIMU CULTURE](https://zimu-culture.com/), an exhibition/book-making company based in Taipei.
 
