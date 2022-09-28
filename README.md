@@ -1,13 +1,18 @@
 # 李佳霖
 ### Bio
 
-畢業於台大外文系、中國美術學院策展研究所，研究與實踐關注方向為數位時代的文化研究、媒體理論與藝術創作。目前就讀台北藝術大學美術系博士班，同時擔任[自牧文化](https://zimu-culture.com/)負責人，製作展覽與出版圖書。
+畢業於台大外文系、中國美術學院當代藝術與社會思想研究所，研究與實踐關注方向為數位時代的文化研究、媒體理論與藝術創作。目前就讀台北藝術大學美術系博士班，同時擔任[自牧文化](https://zimu-culture.com/)負責人，製作展覽與出版圖書。
 
-Born in Taiwan, Lee Chia-Lin is currently a PhD student of Fine Arts at Taipei National University of the Arts. She graduated form the Department of Foreign Languages and Literatures, National Taiwan University,  and then visited Hangzhou for her further study of contemporary arts and curating at China Academy of Art (CAA). After that, she came back to Taiwan and started her career as an independent curator/editor. Lee publishes extensively on *Voices of Photography*, *CLABO*, *Art Accrediting* and other media platforms. In 2022, she founded [ZIMU CULTURE](https://zimu-culture.com/), an exhibition/book-making company based in Taipei.
+Graduated from the Department of Foreign Languages and Literatures at National Taiwan University and the Institute of Contemporary Art & Social Thoughts at China Academy of Art, Lee is now pursuing a PhD in Fine Arts at Taipei National University of the Arts. Her research focuses are on the culture, media and art developed and created in the digital era. 
+As the director of [ZIMU CULTURE](https://zimu-culture.com/), she also works on curatorial projects and publishes books.
 
 ---
 
 ### Curatorial Practices
+#### 2022 意見徵集：連結意味著什麼？，台藝大藝術聚落，台灣台北，策展人
+##### 2022 Request for Commons: What Does It Mean to Be Connected?, NTUA ART VILLAGE, Taipei, Curator
+![](https://i.imgur.com/aVxhuw7.jpg)
+
 #### 2022 [＊BONK＊](https://dac.taipei/project/bonk/)，台北數位藝術中心，台灣台北，策展人
 ##### ＊BONK＊, Digital Art Center Taipei, Taipei, Curator
 
