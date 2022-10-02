@@ -40,6 +40,7 @@ As the director of [ZIMU CULTURE](https://zimu-culture.com/), she also works on 
 
 ### Selected Articles
 #### 2022
+* [無大台出版與共識初成——專訪LikeCoin創辦人高重建](https://www.heath.tw/nml-article/archived-and-alive-interview-with-kin-ko-on-writing-nft/)（Archived and Alive: Interview with Kin Ko on Writing NFT），數位荒原
 * [雲是什麼形狀？評《雲的史前史》](https://dac.taipei/%e7%b7%9a%e4%b8%8a%e5%b0%88%e6%96%87/%e9%9b%b2%e6%98%af%e4%bb%80%e9%ba%bc%e5%bd%a2%e7%8b%80%ef%bc%9f%e8%a9%95%e3%80%8a%e9%9b%b2%e7%9a%84%e5%8f%b2%e5%89%8d%e5%8f%b2%e3%80%8b/?fbclid=IwAR0SDsJNIRg29xLGfQDauCKfJcFgvItBMQzHoQ2YPnVN7VwslwGpamX_9f0)，台北數位藝術中心網站
 * [評《機器學習時代的藝術創作》](https://dac.taipei/%e7%b7%9a%e4%b8%8a%e5%b0%88%e6%96%87/%e8%a9%95%e3%80%8a%e6%a9%9f%e5%99%a8%e5%ad%b8%e7%bf%92%e6%99%82%e4%bb%a3%e7%9a%84%e8%97%9d%e8%a1%93%e5%89%b5%e4%bd%9c%e3%80%8b/?fbclid=IwAR2SmME9Nwt2uf9UTfJMPNaODqOcqGMpbptyUERLjUhUSe7MGQbOP13YSpI)，台北數位藝術中心網站
 * [Proof of What？三檔區塊鏈主題展覽在歐洲](https://mag.clab.org.tw/clabo-article/proof-of-what-three-exhibitions-about-blockchain/)，CLABO
