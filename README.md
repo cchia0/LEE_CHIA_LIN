@@ -19,7 +19,7 @@ As the director of [ZIMU CULTURE](https://zimu-culture.com/), she also works on 
 ![](https://i.imgur.com/emt8iis.jpg)
 
 #### 2021 [許進源實品屋計畫](https://hsuchingyuan.art/show-house-project)，有章藝術博物館-大台北雙年展系列，台灣台北，計畫統籌
-#### Hsu Ching Yuan Model House Project, NTUA OUR MUSEUM - Greater Taipei Biennial of Contemporary Arts, Taipei, Project Manager
+##### Hsu Ching Yuan Model House Project, NTUA OUR MUSEUM - Greater Taipei Biennial of Contemporary Arts, Taipei, Project Manager
 ![](https://i.imgur.com/g0vOPkP.jpg)
 
 #### 2020 [海的寓言——許進源個展](https://hsuchingyuan.art/allegories-of-ocean)，負債空間，台灣高雄，策展人
