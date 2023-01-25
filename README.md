@@ -9,7 +9,7 @@ As the director of [ZIMU CULTURE](https://zimu-culture.com/), she also works on 
 ---
 
 ### Curatorial Practices
-#### 2022 意見徵集：連結意味著什麼？，台藝大藝術聚落，台灣台北，策展人
+#### 2022 [意見徵集：連結意味著什麼？](https://museum.ntua.edu.tw/c01.asp?kk=3103)，台藝大藝術聚落，台灣台北，策展人
 ##### 2022 Request for Commons: What Does It Mean to Be Connected?, NTUA ART VILLAGE, Taipei, Curator
 ![](https://i.imgur.com/aVxhuw7.jpg)
 
