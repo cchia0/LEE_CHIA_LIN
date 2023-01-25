@@ -38,6 +38,13 @@ As the director of [ZIMU CULTURE](https://zimu-culture.com/), she also works on 
 
 ---
 
+### Events/Talks
+#### 2022 第七屆網絡社會年會｜台北論壇[台北再繪](https://www.caa-ins.org/archives/9845)，台灣台北(線上)，論壇組織
+##### 2022 The Seventh Annual Conference of Network Society| City Panel in Taipei: Taipei, Remapping, Taipei(online), Event Organizer
+![](https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/11/%E5%8F%B0%E5%8C%97%E8%AE%BA%E5%9D%9B%E6%B5%B7%E6%8A%A5-1-scaled.jpg?resize=1448%2C2048&ssl=1)
+
+---
+
 ### Selected Articles
 #### 2022
 * [軟體為何是「軟」的？淺介軟體研究](https://mag.clab.org.tw/clabo-article/introduction-of-software-studies/?fbclid=IwAR2gTuDIeOd1v000THKYv5WG6thopsePSrvSFEf34vDnNeK5z3xI_9gzrKM)，CLABO
