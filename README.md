@@ -4,7 +4,7 @@
 畢業於台大外文系、中國美術學院當代藝術與社會思想研究所，研究與實踐關注方向為數位時代的文化研究、媒體理論與藝術創作。目前就讀台北藝術大學美術系博士班，同時擔任[自牧文化](https://zimu-culture.com/)負責人，製作展覽與出版圖書。
 
 Graduated from the Department of Foreign Languages and Literatures at National Taiwan University and the Institute of Contemporary Art & Social Thoughts at China Academy of Art, Lee is now pursuing a PhD in Fine Arts at Taipei National University of the Arts. Her research focuses are on the culture, media and art developed and created in the digital era. 
-As the director of [ZIMU CULTURE](https://zimu-culture.com/), she also works on curatorial projects and publishes books.
+As the founder of [ZIMU CULTURE](https://zimu-culture.com/), she also works on curatorial projects and publishes books.
 
 ---
 
