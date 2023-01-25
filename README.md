@@ -10,7 +10,7 @@ As the director of [ZIMU CULTURE](https://zimu-culture.com/), she also works on 
 
 ### Curatorial Practices
 #### 2022 [意見徵集：連結意味著什麼？](https://museum.ntua.edu.tw/c01.asp?kk=3103)，台藝大藝術聚落，台灣台北，策展人
-##### 2022 Request for Commons: What Does It Mean to Be Connected?, NTUA ART VILLAGE, Taipei, Curator
+##### Request for Commons: What Does It Mean to Be Connected?, NTUA ART VILLAGE, Taipei, Curator
 ![](https://i.imgur.com/aVxhuw7.jpg)
 
 #### 2022 [＊BONK＊](https://dac.taipei/project/bonk/)，台北數位藝術中心，台灣台北，策展人
@@ -40,7 +40,7 @@ As the director of [ZIMU CULTURE](https://zimu-culture.com/), she also works on 
 
 ### Events/Talks
 #### 2022 第七屆網絡社會年會｜台北論壇[台北再繪](https://www.caa-ins.org/archives/9845)，台灣台北(線上)，論壇組織
-##### 2022 The Seventh Annual Conference of Network Society| City Panel in Taipei: Taipei, Remapping, Taipei(online), Event Organizer
+##### The Seventh Annual Conference of Network Society| City Panel in Taipei: Taipei, Remapping, Taipei(online), Event Organizer
 ![](https://i0.wp.com/www.caa-ins.org/wp-content/uploads/2022/11/%E5%8F%B0%E5%8C%97%E8%AE%BA%E5%9D%9B%E6%B5%B7%E6%8A%A5-1-scaled.jpg?resize=1448%2C2048&ssl=1)
 
 ---
