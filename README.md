@@ -5,9 +5,6 @@
 
 Lee Chia-Lin graduated from the Department of Foreign Languages and Literatures, National Taiwan University, and the Institute of Contemporary Art & Social Thoughts, China Academy of Art. She is now pursuing a Ph.D. in Fine Arts at Taipei National University of the Arts. Her research focuses on the culture, media and art developed and created in the digital era. As the founder of [ZIMU CULTURE](https://zimu-culture.com/), Lee also works on curatorial projects and publishes books.
 
-
-Lee Chia-Lin graduated from the Department of Foreign Languages and Literatures, National Taiwan University, and the Institute of Contemporary Art & Social Thoughts, China Academy of Art. She is now pursuing a Ph.D. in Fine Arts at Taipei National University of the Arts. Her research focuses on the culture, media and art developed and created in the digital era. As the founder of [ZIMU CULTURE](https://zimu-culture.com/), Lee also works on curatorial projects and publishes books.
-
 🏄🏻‍♀️ Latest news and more photos on [chia0.net](https://chia0.net/)!
 
 ---
