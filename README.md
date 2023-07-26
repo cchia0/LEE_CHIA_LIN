@@ -10,7 +10,7 @@ Lee Chia-Lin graduated from the Department of Foreign Languages and Literatures,
 ---
 
 ### Curatorial Practices
-#### 2023[感覺重混](https://www.instagram.com/sensation.remix/)，羅東文化工場，台灣宜蘭，策展人
+#### 2023 [感覺重混](https://www.instagram.com/sensation.remix/)，羅東文化工場，台灣宜蘭，策展人
 ##### Sensation(Remix), Ludong Cultural Working House, Yilan, Curator
 ![](https://scontent.ftpe7-4.fna.fbcdn.net/v/t39.30808-6/344030228_141497082104722_1584734133697364021_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Lw6NfHSpPgMAX_mmn7-&_nc_ht=scontent.ftpe7-4.fna&oh=00_AfCuVxcRmpZwiFl37Qsxf1e3XN8f3qs-WxAtMTIFwonKFQ&oe=64C6390D)
 
