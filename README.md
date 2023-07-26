@@ -12,7 +12,7 @@ Lee Chia-Lin graduated from the Department of Foreign Languages and Literatures,
 ### Curatorial Practices
 #### 2023[感覺重混](https://www.instagram.com/sensation.remix/)，羅東文化工場，台灣宜蘭，策展人
 ##### Sensation(Remix), Ludong Cultural Working House, Yilan, Curator
-![](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/344030228_141497082104722_1584734133697364021_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=7hXw0fCOGRoAX9yIyJe&_nc_ht=scontent-tpe1-1.xx&oh=00_AfDKpxeD-EfTRv9Z88t8KUJJEw1ERhCJY7EzMUqnni-jIA&oe=64732A8D)
+![](https://scontent.ftpe7-4.fna.fbcdn.net/v/t39.30808-6/344030228_141497082104722_1584734133697364021_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Lw6NfHSpPgMAX_mmn7-&_nc_ht=scontent.ftpe7-4.fna&oh=00_AfCuVxcRmpZwiFl37Qsxf1e3XN8f3qs-WxAtMTIFwonKFQ&oe=64C6390D)
 
 #### 2022 [意見徵集：連結意味著什麼？](https://museum.ntua.edu.tw/c01.asp?kk=3103)，台藝大藝術聚落，台灣台北，策展人
 ##### Request for Commons: What Does It Mean to Be Connected?, NTUA ART VILLAGE, Taipei, Curator
