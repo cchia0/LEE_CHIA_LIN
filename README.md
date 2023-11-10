@@ -13,10 +13,12 @@ Lee Chia-Lin graduated from the Department of Foreign Languages and Literatures,
 
 #### 2023 [A-Real Engine 第十八屆台北數位藝術節](https://www.facebook.com/DigitalArtFestivalTaipei)，國立臺灣科學教育館，台灣台北，客座策展人
 ##### A-Real Engine, The 18th Digital Art Festival Taipei, National Taiwan Science and Education Center, Taipei, Guest Curator
+
 ![](https://imgur.com/fDHB3OA)
 
 #### 2023 [感覺重混](https://www.instagram.com/sensation.remix/)，羅東文化工場，台灣宜蘭，策展人
 ##### Sensation(Remix), Ludong Cultural Working House, Yilan, Curator
+
 ![](https://imgur.com/3ymFjvg)
 
 #### 2022 [意見徵集：連結意味著什麼？](https://museum.ntua.edu.tw/c01.asp?kk=3103)，台藝大藝術聚落，台灣台北，策展人
